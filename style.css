@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 100vh;
+}
+/* 
+#like-button{
+    font-size: 30px;
+} */
+
